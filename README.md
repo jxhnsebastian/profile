@@ -12,4 +12,17 @@ I am John, a full-stack dev, exploring AI, web3, and webd.
 - Figma
 ### Some Projects of Mine
 #### dogecapital
+WIP
+- [Repo](https://github.com/Doge-Capital/dc-dogeswap)
 #### coolname
+A simple web app to transfer tokens on Solana.
+- [Repo](https://github.com/jxhnsebastian?tab=repositories)
+#### reki
+A google calendar clone
+- [Repo](https://github.com/jxhnsebastian/Event-Calendar)
+- [Site](https://reki.netlify.app/)
+#### luciddreams
+Website for a startup LucidDreams ( WIP )
+- [Repo](https://github.com/jxhnsebastian/lucid-site)
+- [Site](https://www.luciddreams.in)
+
