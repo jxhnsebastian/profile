@@ -17,6 +17,10 @@ WIP
 #### coolname
 A simple web app to transfer tokens on Solana.
 - [Repo](https://github.com/jxhnsebastian?tab=repositories)
+#### Strayscue
+CMS portal for NGO StrayScue
+- [REPO](https://github.com/Devsoc-BPGC/strayscue-frontend)
+- [Site](https://case-management-v2.strayscue.org/)
 #### reki
 A google calendar clone
 - [Repo](https://github.com/jxhnsebastian/Event-Calendar)
