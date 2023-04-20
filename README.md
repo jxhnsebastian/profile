@@ -11,8 +11,5 @@ I am John, a full-stack dev, exploring AI, web3, and webd.
 - Git
 - Figma
 ### Some Projects of Mine
+#### dogecapital
 #### coolname
-#### strayscue
-#### reki
-#### wallite
-#### LucidDreams
